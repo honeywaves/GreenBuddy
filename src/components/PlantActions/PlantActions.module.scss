@@ -1,0 +1,27 @@
+.plantActionsContainer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 16px;
+}
+
+.plantActions {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 16px;
+}
+
+.plantButton {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plantButton:hover {
+  background-color: #56674d;
+  color: #fff;
+}
