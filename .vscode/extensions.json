@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint", // ESLint integration
+		"ms-vscode.vscode-typescript-next", // TypeScript support
+		"dsznajder.es7-react-js-snippets", // React snippets
+		"syler.sass-indented", // Sass syntax support
+		"antfu.vite", // Vite tooling support
+	]
+}
